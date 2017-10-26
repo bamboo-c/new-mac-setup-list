@@ -1,1 +1,36 @@
-# new-mac-setup-list
+# New my mac setup list
+
+- [ ] set AppleID
+- [ ] set user name
+- [ ] get 1password
+- [ ] update os
+- [ ] get Xcode
+- [ ] get chrome & canary
+- [ ] get google japanese lang
+- [ ] set high mouse, key speed
+- [ ] remove redundant app and Siri in dock
+- [ ] get karabiner-element
+- [ ] set HHKB key bind
+- [ ] get my dotfiles
+- [ ] get homebrew
+- [ ] get nodebrew
+- [ ] set dotfiles
+- [ ] set DarkTheme
+- [ ] get Apps
+	- [ ] macvim
+	- [ ] iterm2
+	- [ ] win archiver
+	- [ ] jpeg mini
+	- [ ] cheat sheet
+	- [ ] kindle
+	- [ ] slack
+	- [ ] picgif
+	- [ ] chatty
+	- [ ] activity timer
+	- [ ] image optim
+	- [ ] image alpha
+	- [ ] licecap
+	- [ ] airmail
+	- [ ] dash
+	- [ ] sd card formatter
+	- [ ] spotify
